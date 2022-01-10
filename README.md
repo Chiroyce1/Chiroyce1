@@ -12,4 +12,4 @@ replace GitHub with text
 and github with logo
 --->
 
-![Python](https://img.shields.io/badge/Python-2B2E3A?style=for-the-badge&logo=python) ![GitHub](https://img.shields.io/badge/GitHub-2B2E3A?style=for-the-badge&logo=github) ![JavaScript](https://img.shields.io/badge/JavaScript-2B2E3A?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-2B2E3A?style=for-the-badge&logo=python) ![GitHub](https://img.shields.io/badge/GitHub-2B2E3A?style=for-the-badge&logo=github) ![JavaScript](https://img.shields.io/badge/JavaScript-2B2E3A?style=for-the-badge&logo=javascript)![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
