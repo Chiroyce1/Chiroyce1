@@ -9,7 +9,7 @@
 
 [![Python](https://img.shields.io/badge/Python-2B2E3A?style=for-the-badge&logo=python&logoColor=4ea6ed)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-2B2E3A?style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/2.0.x/) [![Socket.io](https://img.shields.io/badge/Socket.io-2B2E3A?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2B2E3A?style=for-the-badge&logo=javascript) ![CSS3](https://img.shields.io/badge/css3-2B2E3A.svg?style=for-the-badge&logo=css3&logoColor=6181fa) ![HTML5](https://img.shields.io/badge/html5-2B2E3A.svg?style=for-the-badge&logo=html5&logoColor=e54c21)
+[![JavaScript](https://img.shields.io/badge/JavaScript-2B2E3A?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript) [![CSS3](https://img.shields.io/badge/css3-2B2E3A.svg?style=for-the-badge&logo=css3&logoColor=6181fa)](https://en.wikipedia.org/wiki/CSS) [![HTML5](https://img.shields.io/badge/html5-2B2E3A.svg?style=for-the-badge&logo=html5&logoColor=e54c21)](https://en.wikipedia.org/wiki/HTML5)
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-2B2E3A?style=for-the-badge&logo=visual%20studio%20code&logoColor=21a3f0) ![SQLite](https://img.shields.io/badge/sqlite-2B2E3A.svg?style=for-the-badge&logo=sqlite&logoColor=4ea6ed)
