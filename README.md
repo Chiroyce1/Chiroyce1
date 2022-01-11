@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-2B2E3A?style=for-the-badge&logo=javascript) ![CSS3](https://img.shields.io/badge/css3-2B2E3A.svg?style=for-the-badge&logo=css3&logoColor=6181fa) ![HTML5](https://img.shields.io/badge/html5-2B2E3A.svg?style=for-the-badge&logo=html5&logoColor=e54c21) ![Markdown](https://img.shields.io/badge/markdown-2B2E3A.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-2B2E3A?style=for-the-badge&logo=visual%20studio%20code&logoColor=21a3f0)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-2B2E3A?style=for-the-badge&logo=visual%20studio%20code&logoColor=21a3f0) ![Socket.io](https://img.shields.io/badge/Socket.io-2B2E3A?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ![macOS](https://img.shields.io/badge/macOS-2B2E3A?logo=macOS&style=for-the-badge) [![Firefox](https://img.shields.io/badge/Firefox-2B2E3A?logo=Firefox&style=for-the-badge)](https://www.mozilla.org/firefox/)
 
