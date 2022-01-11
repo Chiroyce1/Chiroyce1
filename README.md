@@ -14,7 +14,7 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-2B2E3A?style=for-the-badge&logo=visual%20studio%20code&logoColor=21a3f0)](https://code.visualstudio.com/) [![SQLite](https://img.shields.io/badge/sqlite-2B2E3A.svg?style=for-the-badge&logo=sqlite&logoColor=4ea6ed)](https://www.sqlite.org)
 
-![macOS](https://img.shields.io/badge/macOS-2B2E3A?logo=macOS&style=for-the-badge) [![Firefox](https://img.shields.io/badge/Firefox-2B2E3A?logo=Firefox&style=for-the-badge)](https://www.mozilla.org/firefox/) ![Shell Script](https://img.shields.io/badge/Bash_/_Zsh-2B2E3A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![macOS](https://img.shields.io/badge/macOS-2B2E3A?logo=macOS&style=for-the-badge)](https://www.apple.com/macOS) [![Firefox](https://img.shields.io/badge/Firefox-2B2E3A?logo=Firefox&style=for-the-badge)](https://www.mozilla.org/firefox/) [![Shell Script](https://img.shields.io/badge/Bash_/_Zsh-2B2E3A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiroyce1) 
