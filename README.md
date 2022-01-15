@@ -11,6 +11,6 @@
 [![macOS](https://img.shields.io/badge/macOS-2B2E3A?logo=macOS&style=for-the-badge)](https://www.apple.com/macOS) [![Firefox](https://img.shields.io/badge/Firefox-2B2E3A?logo=Firefox&style=for-the-badge)](https://www.mozilla.org/firefox/) [![Shell Script](https://img.shields.io/badge/Bash_/_Zsh-2B2E3A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiroyce1) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiroyce1&theme=algolia) 
 
 <!-- https://github.com/Ileriayo/markdown-badges#languages --> 
