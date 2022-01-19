@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🔭 I’m currently working on Python and JavaScript!
 - 📱 You can contact me on my [GitHub discussion](https://github.com/Chiroyce1/Chiroyce1/discussions/).
