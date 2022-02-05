@@ -9,7 +9,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-2B2E3A?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript) [![CSS3](https://img.shields.io/badge/css3-2B2E3A.svg?style=for-the-badge&logo=css3&logoColor=6181fa)](https://en.wikipedia.org/wiki/CSS) [![HTML5](https://img.shields.io/badge/html5-2B2E3A.svg?style=for-the-badge&logo=html5&logoColor=e54c21)](https://en.wikipedia.org/wiki/HTML5) [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-2B2E3A?style=for-the-badge&logo=visual%20studio%20code&logoColor=21a3f0)](https://vscode.dev) [![SQLite](https://img.shields.io/badge/sqlite-2B2E3A.svg?style=for-the-badge&logo=sqlite&logoColor=4ea6ed)](https://www.sqlite.org)
 
-[![macOS](https://img.shields.io/badge/macOS-2B2E3A?logo=macOS&style=for-the-badge)](https://www.apple.com/macOS) [![Firefox](https://img.shields.io/badge/Firefox-2B2E3A?logo=Firefox&style=for-the-badge)](https://www.mozilla.org/firefox/) [![Shell Script](https://img.shields.io/badge/Bash_/_Zsh-2B2E3A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
+[![macOS](https://img.shields.io/badge/macOS-2B2E3A?logo=apple&style=for-the-badge)](https://www.apple.com/macOS) [![Firefox](https://img.shields.io/badge/Firefox-2B2E3A?logo=Firefox&style=for-the-badge)](https://www.mozilla.org/firefox/) [![Shell Script](https://img.shields.io/badge/Bash_/_Zsh-2B2E3A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiroyce1&show_icons=true&theme=github_dark)
 
