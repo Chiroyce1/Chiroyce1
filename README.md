@@ -1,6 +1,6 @@
 # Hello 👋
 
-- 🔭 I’m currently working on a fullstack website with Python and Svelte!
+- 🔭 I’m currently working on improving my skills and school!
 - 📱 You can contact me on my [GitHub discussion](https://github.com/Chiroyce1/Chiroyce1/discussions/).
 - 🌱 I’m currently learning Svelte and front-end components!
 - 💻 Here is some software that I use
