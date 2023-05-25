@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Svelte and front-end components!
 - 💻 Here is some software that I use
 
-[![Discord](https://img.shields.io/badge/Discord-2B2E3A.svg?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/rMCgNmnNXv)
+[![Discord](https://img.shields.io/badge/Discord-2B2E3A.svg?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.com/users/962990102659866664)
 [![Replit](https://img.shields.io/badge/Replit-2B2E3A?logo=replit&style=for-the-badge&logoColor=white)](https://replit.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-2B2E3A?style=for-the-badge&logo=github)](https://github.com/) [![Socket.io](https://img.shields.io/badge/Socket.io-2B2E3A?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/) 
 
