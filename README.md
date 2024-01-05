@@ -1,7 +1,7 @@
 # Hello 👋
 
-- 🔭 I’m currently working on improving my skills and school!
-- 🌱 I’m currently learning Svelte and front-end components!
+- 🔭 I’m currently working on a few small projects and exams!
+- 🌱 I’m currently learning basic machine learning and Next.js
 - 💻 Here is some software that I use
 
 [![Replit](https://img.shields.io/badge/Replit-2B2E3A?logo=replit&style=for-the-badge&logoColor=white)](https://replit.com/)
@@ -20,7 +20,19 @@
 
 [![Shell Script](https://img.shields.io/badge/Bash_/_Zsh-2B2E3A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script) [![macOS](https://img.shields.io/badge/macOS-2B2E3A?logo=apple&style=for-the-badge)](https://www.apple.com/macOS) [![Firefox](https://img.shields.io/badge/Firefox-2B2E3A?logo=Firefox&style=for-the-badge)](https://www.mozilla.org/firefox/) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiroyce1&show_icons=true&theme=github_dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Chiroyce1&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Chiroyce1&show_icons=true&theme=github_light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+![Commit Info Card Loading...](https://streak-stats.demolab.com/?user=Chiroyce1&theme=dark&hide_border=true&mode=weekly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiroyce1&theme=github_dark)
 
