@@ -57,7 +57,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiroyce1&theme=github_dark)
 
-![Flag Counter](https://s01.flagcounter.com/countxl/SfW6/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)
-
-
 <!-- https://github.com/Ileriayo/markdown-badges#languages -->
