@@ -40,17 +40,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiroyce1&theme=github_dark)
 
 <!-- https://github.com/Ileriayo/markdown-badges#languages -->
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Chiroyce1&show_icons=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Chiroyce1&show_icons=true&theme=github_light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-<!-- https://github.com/Ileriayo/markdown-badges#languages -->
