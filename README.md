@@ -53,8 +53,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-![Commit Info Card Loading...](https://streak-stats.demolab.com/?user=Chiroyce1&theme=dark&hide_border=true&mode=weekly)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiroyce1&theme=github_dark)
-
 <!-- https://github.com/Ileriayo/markdown-badges#languages -->
