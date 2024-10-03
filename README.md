@@ -1,9 +1,5 @@
 # Hello 👋
 
-- 🔭 I’m currently working on a few small projects and exams!
-- 🌱 I’m currently learning Next.js
-- 💻 Here is some software that I use
-
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chiroyce1) [![Discord @ chiroyce](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](data%3Atext%2Fplain%2C%40chiroyce%20on%20Discord) [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@chiroyce:matrix.org)
 
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -23,6 +19,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PIP](https://img.shields.io/badge/pip-006dad.svg?style=for-the-badge&logo=pypi&logoColor=yellow)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--- 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Chiroyce1&show_icons=true&theme=github_dark"
@@ -39,4 +39,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiroyce1&theme=github_dark)
 
-<!-- https://github.com/Ileriayo/markdown-badges#languages -->
+
+https://github.com/Ileriayo/markdown-badges#languages -->
+
