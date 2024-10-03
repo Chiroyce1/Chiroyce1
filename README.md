@@ -22,11 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           60 hrs 15 mins  ███████▓░░░░░░░░░░░░░░░░░   30.04 %
-Svelte           53 hrs 31 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
-TypeScript       37 hrs 13 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
-JavaScript       17 hrs 8 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-HTML             9 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Total Time: 198 hrs 7 mins
+
+Python           60 hrs 15 mins  ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.04 %
+Svelte           53 hrs 31 mins  ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.68 %
+TypeScript       37 hrs 13 mins  ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.56 %
+JavaScript       17 hrs 8 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.54 %
+HTML             9 hrs 22 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.68 %
 ```
 
 <!--END_SECTION:waka-->
