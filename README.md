@@ -20,6 +20,15 @@
 ![PIP](https://img.shields.io/badge/pip-006dad.svg?style=for-the-badge&logo=pypi&logoColor=yellow)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript    3 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   40.33 %
+JavaScript    2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
+HTML          1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+CSS           48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Python        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--- 
