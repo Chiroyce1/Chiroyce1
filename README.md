@@ -1,5 +1,4 @@
 # hello 👋
-
 Check out my site! [chiroyce.pages.dev](https://chiroyce.pages.dev/)
  
 Building [FullThrottle](https://fullthrottlef1.pages.dev/) *(will be open source soon™)*
@@ -21,3 +20,5 @@ Building [FullThrottle](https://fullthrottlef1.pages.dev/) *(will be open source
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=chiroyce1&abbreviated=true&style=for-the-badge)
