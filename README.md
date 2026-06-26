@@ -21,7 +21,7 @@ Building [FullThrottle](https://fullthrottlef1.pages.dev/) *(will be open source
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 24 June 2026
+From: 04 January 2024 - To: 25 June 2026
 
 Total Time: 636 hrs 36 mins
 
