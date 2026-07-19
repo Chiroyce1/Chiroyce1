@@ -1,10 +1,8 @@
 # hello 👋
-Check out my site! [chiroyce.pages.dev](https://chiroyce.pages.dev/)
+check out [chiroyce.pages.dev](https://chiroyce.pages.dev/)
  
-Building [FullThrottle](https://fullthrottlef1.pages.dev/) *(will be open source soon™)*
-
 ```
-# contact
+# contact 
 [discord]  @chiroyce
 [twitter]  0xchiroyce
 [matrix]   @chiroyce:matrix.org
