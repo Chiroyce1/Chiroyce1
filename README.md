@@ -1,12 +1,17 @@
 # hello 👋
-check out [chiroyce.pages.dev](https://chiroyce.pages.dev/)
- 
-```
-# contact 
-[discord]  @chiroyce
-[twitter]  0xchiroyce
-[matrix]   @chiroyce:matrix.org
-```
+
+CSE undergrad and developer working on open-source, web tech, and networking. 
+
+check out my site at [chiroyce.dev](https://chiroyce.dev)
+
+### contact
+- email: [chiroyce@proton.me](mailto:chiroyce@proton.me)
+- X: [@0xchiroyce](https://x.com/0xchiroyce)
+- discord: @chiroyce
+- matrix: @chiroyce:matrix.org
+
+---
+
 
 [![typescript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![nodejs](https://img.shields.io/badge/node.js-6da55f?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![go](https://img.shields.io/badge/go-%2300add8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) 
 

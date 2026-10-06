@@ -20,4 +20,5 @@ jobs:
           TIME_RANGE: all_time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TITLE: true
-          LANG_COUNT: 7
+          LANG_COUNT: 5
+          IGNORED_LANGUAGES: "Markdown, JSON, HTML, CSS, YAML, Text, CSV, Git Config, TeX, Other"
