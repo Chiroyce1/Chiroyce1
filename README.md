@@ -24,7 +24,7 @@ check out my site at [chiroyce.dev](https://chiroyce.dev)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 18 October 2026
+From: 04 January 2024 - To: 19 October 2026
 
 Total Time: 742 hrs 40 mins
 
